@@ -1,7 +1,8 @@
 node_modules
+.next
+chat.log
 .env
 .env.local
 .env.production
 .env.development
 npm-debug.log*
-dist
