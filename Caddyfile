@@ -1,0 +1,3 @@
+factorio.pyronixgames.space {
+  reverse_proxy dashboard:3000
+}
