@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import { withRcon } from '@/lib/rcon';
 
 export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
 
 function formatTime(ticks: number): string {
   const seconds = ticks / 60;
